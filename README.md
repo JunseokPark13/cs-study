@@ -16,6 +16,7 @@
     6. ARM 프로세서
 + 데이터 구조
     1. Array & ArrayList & LinkedList
+    2. Stack & Queue
 + 알고리즘
     1. GCD & LCM
 
@@ -37,4 +38,5 @@
  - 2021-12-11 : 컴퓨터 과학/컴퓨터 구조/06. ARM 프로세서
                 컴퓨터 과학/데이터 구조/01. Array & ArrayList & LinkedList
                 알고리즘/기타 알고리즘/01. GCD & LCM
+ - 2021-12-12 : 컴퓨터 과학/데이터 구조/02. Stack & Queue
 ```
