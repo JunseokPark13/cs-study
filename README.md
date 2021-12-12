@@ -17,6 +17,7 @@
 + 데이터 구조
     1. Array & ArrayList & LinkedList
     2. Stack & Queue
+    3. Heap
 + 알고리즘
     1. GCD & LCM
 
@@ -39,4 +40,5 @@
                 컴퓨터 과학/데이터 구조/01. Array & ArrayList & LinkedList
                 알고리즘/기타 알고리즘/01. GCD & LCM
  - 2021-12-12 : 컴퓨터 과학/데이터 구조/02. Stack & Queue
+                컴퓨터 과학/데이터 구조/03. Heap
 ```
