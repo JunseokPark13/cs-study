@@ -19,6 +19,7 @@
     2. Stack & Queue
     3. Heap
     4. Tree
+    5. Binary Search Tree
 + 알고리즘
     1. GCD & LCM
 
@@ -43,4 +44,5 @@
  - 2021-12-12 : 컴퓨터 과학/데이터 구조/02. Stack & Queue
                 컴퓨터 과학/데이터 구조/03. Heap
  - 2021-12-13 : 컴퓨터 과학/데이터 구조/04. Tree
+ - 2021-12-14 : 컴퓨터 과학/데이터 구조/05. Binary Search Tree
 ```
