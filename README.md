@@ -22,6 +22,7 @@
     5. Binary Search Tree
     6. Hash
     7. Trie
+    8. B Tree & B+ Tree
 + 알고리즘
     1. GCD & LCM
 
@@ -53,4 +54,5 @@
  - 2021-12-14 : 컴퓨터 과학/데이터 구조/05. Binary Search Tree
  - 2021-12-17 : 컴퓨터 과학/데이터 구조/06. Hash
  - 2021-12-18 : 컴퓨터 과학/데이터 구조/07. Trie
+                컴퓨터 과학/데이터 구조/08. B Tree & B+ Tree
 ```
