@@ -14,19 +14,19 @@
     4. [고정소수점 & 부동소수점](https://github.com/Suppplier/cs-study/blob/668bc0e14896546f318520ad54b705a2aa83f5da/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0/04.%20%EA%B3%A0%EC%A0%95%EC%86%8C%EC%88%98%EC%A0%90%20&%20%EB%B6%80%EB%8F%99%EC%86%8C%EC%88%98%EC%A0%90.md)
     5. [패리티 비트 & 해밍 코드](https://github.com/Suppplier/cs-study/blob/668bc0e14896546f318520ad54b705a2aa83f5da/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0/05.%20%ED%8C%A8%EB%A6%AC%ED%8B%B0%20%EB%B9%84%ED%8A%B8%20&%20%ED%95%B4%EB%B0%8D%20%EC%BD%94%EB%93%9C.md)
     6. [ARM 프로세서](https://github.com/Suppplier/cs-study/blob/668bc0e14896546f318520ad54b705a2aa83f5da/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0/06.%20ARM%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C.md)
-+ 데이터 구조
-    1. Array & ArrayList & LinkedList
-    2. Stack & Queue
-    3. Heap
-    4. Tree
-    5. Binary Search Tree
-    6. Hash
-    7. Trie
-    8. B Tree & B+ Tree
-+ 운영체제
-    1. 운영체제
-+ 알고리즘
-    1. GCD & LCM
++ [데이터 구조](https://github.com/Suppplier/cs-study/tree/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B5%AC%EC%A1%B0)
+    1. [Array & ArrayList & LinkedList](https://github.com/Suppplier/cs-study/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B5%AC%EC%A1%B0/01.%20Array%20%26%20ArrayList%20%26%20LinkedList.md)
+    2. [Stack & Queue](https://github.com/Suppplier/cs-study/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B5%AC%EC%A1%B0/02.%20Stack%20%26%20Queue.md)
+    3. [Heap](https://github.com/Suppplier/cs-study/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B5%AC%EC%A1%B0/03.%20Heap.md)
+    4. [Tree](https://github.com/Suppplier/cs-study/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B5%AC%EC%A1%B0/04.%20Tree.md)
+    5. [Binary Search Tree](https://github.com/Suppplier/cs-study/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B5%AC%EC%A1%B0/05.%20Binary%20Search%20Tree.md)
+    6. [Hash](https://github.com/Suppplier/cs-study/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B5%AC%EC%A1%B0/06.%20Hash.md)
+    7. [Trie](https://github.com/Suppplier/cs-study/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B5%AC%EC%A1%B0/07.%20Trie.md)
+    8. [B Tree & B+ Tree](https://github.com/Suppplier/cs-study/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B5%AC%EC%A1%B0/08.%20B%20Tree%20%26%20B%2B%20Tree.md)
++ [운영체제](https://github.com/Suppplier/cs-study/tree/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)
+    1. [운영체제](https://github.com/Suppplier/cs-study/blob/8cbe22d211f78356e17d7f9d69a3bfe0d2a26da6/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/01.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C.md)
++ [알고리즘](https://github.com/Suppplier/cs-study/tree/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EA%B8%B0%ED%83%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+    1. [GCD & LCM](https://github.com/Suppplier/cs-study/blob/8cbe22d211f78356e17d7f9d69a3bfe0d2a26da6/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EA%B8%B0%ED%83%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/01.%20GCD%20&%20LCM.md)
 
 <br>
 
