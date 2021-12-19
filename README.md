@@ -7,13 +7,13 @@
 
 ### 컴퓨터 과학
 
-+ 컴퓨터 구조
-    1. 컴퓨터의 구성
-    2. 중앙처리장치(CPU)의 작동 원리
-    3. 캐시 메모리
-    4. 고정소수점 & 부동소수점
-    5. 패리티 비트 & 해밍 코드
-    6. ARM 프로세서
++ [컴퓨터 구조](https://github.com/Suppplier/cs-study/tree/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0)
+    1. [컴퓨터의 구성](https://github.com/Suppplier/cs-study/blob/668bc0e14896546f318520ad54b705a2aa83f5da/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0/01.%20%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%20%EA%B5%AC%EC%84%B1.md)
+    2. [중앙처리장치(CPU)의 작동 원리](https://github.com/Suppplier/cs-study/blob/668bc0e14896546f318520ad54b705a2aa83f5da/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0/02.%20%EC%A4%91%EC%95%99%EC%B2%98%EB%A6%AC%EC%9E%A5%EC%B9%98(CPU)%EC%9D%98%20%EC%9E%91%EB%8F%99%20%EC%9B%90%EB%A6%AC.md)
+    3. [캐시 메모리](https://github.com/Suppplier/cs-study/blob/668bc0e14896546f318520ad54b705a2aa83f5da/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0/03.%20%EC%BA%90%EC%8B%9C%20%EB%A9%94%EB%AA%A8%EB%A6%AC.md)
+    4. [고정소수점 & 부동소수점](https://github.com/Suppplier/cs-study/blob/668bc0e14896546f318520ad54b705a2aa83f5da/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0/04.%20%EA%B3%A0%EC%A0%95%EC%86%8C%EC%88%98%EC%A0%90%20&%20%EB%B6%80%EB%8F%99%EC%86%8C%EC%88%98%EC%A0%90.md)
+    5. [패리티 비트 & 해밍 코드](https://github.com/Suppplier/cs-study/blob/668bc0e14896546f318520ad54b705a2aa83f5da/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0/05.%20%ED%8C%A8%EB%A6%AC%ED%8B%B0%20%EB%B9%84%ED%8A%B8%20&%20%ED%95%B4%EB%B0%8D%20%EC%BD%94%EB%93%9C.md)
+    6. [ARM 프로세서](https://github.com/Suppplier/cs-study/blob/668bc0e14896546f318520ad54b705a2aa83f5da/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0/06.%20ARM%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C.md)
 + 데이터 구조
     1. Array & ArrayList & LinkedList
     2. Stack & Queue
