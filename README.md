@@ -27,6 +27,7 @@
     1. [운영체제](https://github.com/Suppplier/cs-study/blob/8cbe22d211f78356e17d7f9d69a3bfe0d2a26da6/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/01.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C.md)
     2. [프로세스 & 스레드](https://github.com/Suppplier/cs-study/blob/9bfc9317f53ebb9824be9bd9bcdb4ea26680663b/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/02.%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20&%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)
     3. [프로세스의 주소 공간](https://github.com/Suppplier/cs-study/blob/91c5ae30aaaf291a8335967653bf92a499893b92/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/03.%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%9D%98%20%EC%A3%BC%EC%86%8C%20%EA%B3%B5%EA%B0%84.md)
+    4. [인터럽트](https://github.com/Suppplier/cs-study/blob/e4377b786d575839ffc8e4f38583b21daca31726/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/04.%20%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8.md)
 + [알고리즘](https://github.com/Suppplier/cs-study/tree/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EA%B8%B0%ED%83%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
     1. [GCD & LCM](https://github.com/Suppplier/cs-study/blob/8cbe22d211f78356e17d7f9d69a3bfe0d2a26da6/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EA%B8%B0%ED%83%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/01.%20GCD%20&%20LCM.md)
 
@@ -62,4 +63,5 @@
  - 2021-12-19 : 컴퓨터 과학/운영체제/01. 운영체제
                 컴퓨터 과학/운영체제/02. 프로세스 & 스레드
  - 2021-12-20 : 컴퓨터 과학/운영체제/03. 프로세스의 주소 공간
+ - 2021-12-21 : 컴퓨터 과학/운영체제/04. 인터럽트
 ```
