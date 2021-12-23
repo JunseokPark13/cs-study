@@ -30,6 +30,7 @@
     4. [인터럽트](https://github.com/Suppplier/cs-study/blob/e4377b786d575839ffc8e4f38583b21daca31726/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/04.%20%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8.md)
     5. [시스템 호출](https://github.com/Suppplier/cs-study/blob/8bcbf9673f87729bd390bc75ff3b2e197b3b9e5e/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/05.%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%98%B8%EC%B6%9C.md)
     6. [PCB & ContextSwitching](https://github.com/Suppplier/cs-study/blob/2abc9ee5aff71074003a5659dca3dcb19f928862/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/06.%20PCB%20&%20Context%20Switching.md)
+    7. [IPC](https://github.com/Suppplier/cs-study/blob/f7505d7a76cee59fd75c194a39eeda881e2da631/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/07.%20IPC.md)
 + [알고리즘](https://github.com/Suppplier/cs-study/tree/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EA%B8%B0%ED%83%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
     1. [GCD & LCM](https://github.com/Suppplier/cs-study/blob/8cbe22d211f78356e17d7f9d69a3bfe0d2a26da6/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EA%B8%B0%ED%83%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/01.%20GCD%20&%20LCM.md)
 
@@ -68,4 +69,5 @@
  - 2021-12-21 : 컴퓨터 과학/운영체제/04. 인터럽트
  - 2021-12-22 : 컴퓨터 과학/운영체제/05. 시스템 호출
                 컴퓨터 과학/운영체제/06. PCB & Context Switching
+ - 2021-12-23 : 컴퓨터 과학/운영체제/07. IPC
 ```
