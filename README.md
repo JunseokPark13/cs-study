@@ -33,6 +33,7 @@
     7. [IPC](https://github.com/Suppplier/cs-study/blob/f7505d7a76cee59fd75c194a39eeda881e2da631/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/07.%20IPC.md)
     8. [CPU 스케쥴링](https://github.com/Suppplier/cs-study/blob/90e0f9beb3fbbabd4651445520b2ac536a0e2785/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/08.%20CPU%20%EC%8A%A4%EC%BC%80%EC%A5%B4%EB%A7%81.md)
     9. [데드락](https://github.com/Suppplier/cs-study/blob/0cc108a123bb5f0c5444ffc7d388dc93989d81c9/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/09.%20%EB%8D%B0%EB%93%9C%EB%9D%BD.md)
+    10. [경쟁 상태](https://github.com/Suppplier/cs-study/blob/02feaefe3703678b3425a9db3ca20fa58002f381/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/10.%20%EA%B2%BD%EC%9F%81%20%EC%83%81%ED%83%9C.md)
 + [알고리즘](https://github.com/Suppplier/cs-study/tree/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EA%B8%B0%ED%83%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
     1. [GCD & LCM](https://github.com/Suppplier/cs-study/blob/8cbe22d211f78356e17d7f9d69a3bfe0d2a26da6/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EA%B8%B0%ED%83%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/01.%20GCD%20&%20LCM.md)
 
@@ -74,4 +75,5 @@
  - 2021-12-23 : 컴퓨터 과학/운영체제/07. IPC
  - 2021-12-24 : 컴퓨터 과학/운영체제/08. CPU 스케쥴링
  - 2021-12-25 : 컴퓨터 과학/운영체제/09. 데드락
+ - 2021-12-26 : 컴퓨터 과학/운영체제/10. 경쟁 상태
 ```
