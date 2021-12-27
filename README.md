@@ -35,6 +35,7 @@
     9. [데드락](https://github.com/Suppplier/cs-study/blob/0cc108a123bb5f0c5444ffc7d388dc93989d81c9/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/09.%20%EB%8D%B0%EB%93%9C%EB%9D%BD.md)
     10. [경쟁 상태](https://github.com/Suppplier/cs-study/blob/02feaefe3703678b3425a9db3ca20fa58002f381/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/10.%20%EA%B2%BD%EC%9F%81%20%EC%83%81%ED%83%9C.md)
     11. [세마포어 & 뮤텍스](https://github.com/Suppplier/cs-study/blob/6c6add6ce4b17f3ccdf29dde4fd767395deaab71/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/11.%20%EC%84%B8%EB%A7%88%ED%8F%AC%EC%96%B4%20&%20%EB%AE%A4%ED%85%8D%EC%8A%A4.md)
+    12. [페이징 & 세그멘테이션](https://github.com/Suppplier/cs-study/blob/a608047a702f519eb1c93d7397bdcf160c0c201f/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/12.%20%ED%8E%98%EC%9D%B4%EC%A7%95%EA%B3%BC%20%EC%84%B8%EA%B7%B8%EB%A9%98%ED%85%8C%EC%9D%B4%EC%85%98.md)
 + [알고리즘](https://github.com/Suppplier/cs-study/tree/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EA%B8%B0%ED%83%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
     1. [GCD & LCM](https://github.com/Suppplier/cs-study/blob/8cbe22d211f78356e17d7f9d69a3bfe0d2a26da6/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%BC%ED%95%99/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EA%B8%B0%ED%83%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/01.%20GCD%20&%20LCM.md)
 
@@ -78,4 +79,5 @@
  - 2021-12-25 : 컴퓨터 과학/운영체제/09. 데드락
  - 2021-12-26 : 컴퓨터 과학/운영체제/10. 경쟁 상태
                 컴퓨터 과학/운영체제/11. 세마포어 & 뮤텍스
+ - 2021-12-27 : 컴퓨터 과학/운영체제/12. 페이징 & 세그멘테이션
 ```
